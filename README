@@ -1,0 +1,6 @@
+1. Message envoyé pas en double
+2. Faire une commande /username<name> qui définis le nom de votre user
+3. /channel<chan> => changer le canal
+4. /server<server> => changer de serveur
+5. Afficher dans le Header le serveur et le canal
+6. Implémenter /weather => Affiche la météo a paris
